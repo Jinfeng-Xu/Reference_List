@@ -207,6 +207,18 @@
 }
 ```
 
+##### 15. VI-MMRec: Similarity-Aware Training Cost-free Virtual User-Item Interactions for Multimodal Recommendation
+
+***KDD 2026***
+
+```bibtex
+@article{xu2025vi,
+  title={VI-MMRec: Similarity-Aware Training Cost-free Virtual User-Item Interactions for Multimodal Recommendation},
+  author={Xu, Jinfeng and Chen, Zheyu and Yang, Shuo and Li, Jinze and Wan, Zitong and Wang, Hewei and Liu, Weijie and Li, Yijie and Ngai, Edith CH},
+  journal={arXiv preprint arXiv:2512.08702},
+  year={2025}
+}
+```
 
 <div align="center" style="margin: 30px 0;">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
@@ -343,10 +355,36 @@
 }
 ```
 
+##### 10. VI-MMRec: Similarity-Aware Training Cost-free Virtual User-Item Interactions for Multimodal Recommendation
+
+***KDD 2026***
+
+```bibtex
+@article{xu2025vi,
+  title={VI-MMRec: Similarity-Aware Training Cost-free Virtual User-Item Interactions for Multimodal Recommendation},
+  author={Xu, Jinfeng and Chen, Zheyu and Yang, Shuo and Li, Jinze and Wan, Zitong and Wang, Hewei and Liu, Weijie and Li, Yijie and Ngai, Edith CH},
+  journal={arXiv preprint arXiv:2512.08702},
+  year={2025}
+}
+```
+
 <div align="center" style="margin: 30px 0;">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
 </div>
 
 
 ### C. Graph Learning
+
+##### 1. Learning and Editing Universal Graph Prompt Tuning via Reinforcement Learning
+
+***KDD 2026***
+
+```bibtex
+@article{xu2025learning,
+  title={Learning and Editing Universal Graph Prompt Tuning via Reinforcement Learning},
+  author={Xu, Jinfeng and Chen, Zheyu and Yang, Shuo and Li, Jinze and Wang, Hewei and Li, Yijie and Ngai, Edith CH},
+  journal={arXiv preprint arXiv:2512.08763},
+  year={2025}
+}
+```
 
