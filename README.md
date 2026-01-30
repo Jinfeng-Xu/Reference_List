@@ -220,6 +220,20 @@
 }
 ```
 
+##### 16. DGGVAE: Dual-Granularity Graph Variational Auto-Encoder for Group Recommendation
+
+***TOIS 2026***
+
+```bibtex
+@article{xudggvae,
+  title={DGGVAE: Dual-Granularity Graph Variational Auto-Encoder for Group Recommendation},
+  author={Xu, Jinfeng and Chen, Zheyu and Li, Jinze and Yang, Shuo and Wang, Wei and Wang, Hewei and Li, Yijie and Hu, Xiping and Ngai, Edith},
+  journal={ACM Transactions on Information Systems},
+  year={2025},
+  publisher={ACM New York, NY}
+}
+```
+
 <div align="center" style="margin: 30px 0;">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
 </div>
