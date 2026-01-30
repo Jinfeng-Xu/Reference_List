@@ -225,7 +225,7 @@
 ***TOIS 2026***
 
 ```bibtex
-@article{xudggvae,
+@article{xu2026dggvae,
   title={DGGVAE: Dual-Granularity Graph Variational Auto-Encoder for Group Recommendation},
   author={Xu, Jinfeng and Chen, Zheyu and Li, Jinze and Yang, Shuo and Wang, Wei and Wang, Hewei and Li, Yijie and Hu, Xiping and Ngai, Edith},
   journal={ACM Transactions on Information Systems},
