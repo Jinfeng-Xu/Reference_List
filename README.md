@@ -181,14 +181,15 @@
 
 ##### 13. A Survey on Multimodal Recommender Systems: Recent Advances and Future Directions
 
-***TMM 2025 (Accepted)***
+***TMM 2026***
 
 ```bibtex
-@article{xu2025survey,
-  title={A Survey on Multimodal Recommender Systems: Recent Advances and Future Directions},
+@article{xu2026survey,
+  title={A survey on multimodal recommender systems: Recent advances and future directions},
   author={Xu, Jinfeng and Chen, Zheyu and Yang, Shuo and Li, Jinze and Wang, Wei and Hu, Xiping and Hoi, Steven and Ngai, Edith},
-  journal={arXiv preprint arXiv:2502.15711},
-  year={2025}
+  journal={IEEE Transactions on Multimedia},
+  year={2026},
+  publisher={IEEE}
 }
 ```
 
@@ -229,7 +230,10 @@
   title={DGGVAE: Dual-Granularity Graph Variational Auto-Encoder for Group Recommendation},
   author={Xu, Jinfeng and Chen, Zheyu and Li, Jinze and Yang, Shuo and Wang, Wei and Wang, Hewei and Li, Yijie and Hu, Xiping and Ngai, Edith},
   journal={ACM Transactions on Information Systems},
-  year={2025},
+  volume={44},
+  number={2},
+  pages={1--30},
+  year={2026},
   publisher={ACM New York, NY}
 }
 ```
@@ -330,14 +334,15 @@
 
 ##### 7. A Survey on Multimodal Recommender Systems: Recent Advances and Future Directions
 
-***TMM 2025 (Accepted)***
+***TMM 2026***
 
 ```bibtex
-@article{xu2025survey,
-  title={A Survey on Multimodal Recommender Systems: Recent Advances and Future Directions},
+@article{xu2026survey,
+  title={A survey on multimodal recommender systems: Recent advances and future directions},
   author={Xu, Jinfeng and Chen, Zheyu and Yang, Shuo and Li, Jinze and Wang, Wei and Hu, Xiping and Hoi, Steven and Ngai, Edith},
-  journal={arXiv preprint arXiv:2502.15711},
-  year={2025}
+  journal={IEEE Transactions on Multimedia},
+  year={2026},
+  publisher={IEEE}
 }
 ```
 
