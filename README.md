@@ -251,6 +251,20 @@
 }
 ```
 
+##### 18. NLGCL+: Naturally Existing Neighbour Layers Graph Contrastive Learning with Adaptive Sample Weighting for Multimodal Recommendation
+
+***TORS 2026***
+
+```bibtex
+@article{xu2026nlgcl+,
+  title={NLGCL+: Naturally Existing Neighbour Layers Graph Contrastive Learning with Adaptive Sample Weighting for Multimodal Recommendation},
+  author={Xu, Jinfeng and Chen, Zheyu and Yang, Shuo and Li, Jinze and Wang, Hewei and Wang, Wei and Hu, Xiping and Ngai, Edith},
+  journal={ACM Transactions on Recommender Systems},
+  year={2026},
+  publisher={ACM New York, NY}
+}
+```
+
 <div align="center" style="margin: 30px 0;">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
 </div>
@@ -379,11 +393,14 @@
 ***AAAI 2026***
 
 ```bibtex
-@article{xu2025multi,
+@inproceedings{xu2026multi,
   title={Multi-modal Dynamic Proxy Learning for Personalized Multiple Clustering},
   author={Xu, Jinfeng and Chen, Zheyu and Yang, Shuo and Li, Jinze and Peng, Ziyue and Liu, Zewei and Wang, Hewei and Zhang, Jiayi and Ngai, Edith CH},
-  journal={arXiv preprint arXiv:2511.07274},
-  year={2025}
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={40},
+  number={32},
+  pages={27269--27277},
+  year={2026}
 }
 ```
 
@@ -413,6 +430,19 @@
 }
 ```
 
+##### 12. NLGCL+: Naturally Existing Neighbour Layers Graph Contrastive Learning with Adaptive Sample Weighting for Multimodal Recommendation
+
+***TORS 2026***
+
+```bibtex
+@article{xu2026nlgcl+,
+  title={NLGCL+: Naturally Existing Neighbour Layers Graph Contrastive Learning with Adaptive Sample Weighting for Multimodal Recommendation},
+  author={Xu, Jinfeng and Chen, Zheyu and Yang, Shuo and Li, Jinze and Wang, Hewei and Wang, Wei and Hu, Xiping and Ngai, Edith},
+  journal={ACM Transactions on Recommender Systems},
+  year={2026},
+  publisher={ACM New York, NY}
+}
+```
 
 <div align="center" style="margin: 30px 0;">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
