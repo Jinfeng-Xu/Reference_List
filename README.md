@@ -213,11 +213,12 @@
 ***KDD 2026***
 
 ```bibtex
-@article{xu2025vi,
+@inproceedings{xu2026vi,
   title={VI-MMRec: Similarity-Aware Training Cost-free Virtual User-Item Interactions for Multimodal Recommendation},
   author={Xu, Jinfeng and Chen, Zheyu and Yang, Shuo and Li, Jinze and Wan, Zitong and Wang, Hewei and Liu, Weijie and Li, Yijie and Ngai, Edith CH},
-  journal={arXiv preprint arXiv:2512.08702},
-  year={2025}
+  booktitle={Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining V. 1},
+  pages={1683--1692},
+  year={2026}
 }
 ```
 
@@ -262,6 +263,19 @@
   journal={ACM Transactions on Recommender Systems},
   year={2026},
   publisher={ACM New York, NY}
+}
+```
+
+##### 18. Well Begun is Half Done: Training-Free and Model-Agnostic Semantically Guaranteed User Representation Initialization for Multimodal Recommendation
+
+***SIGIR 2026***
+
+```bibtex
+@article{xu2026well,
+  title={Well Begun is Half Done: Training-Free and Model-Agnostic Semantically Guaranteed User Representation Initialization for Multimodal Recommendation},
+  author={Xu, Jinfeng and Chen, Zheyu and Yang, Shuo and Li, Jinze and Wang, Hewei and Tang, Jianheng and Wang, Wei and Hu, Xiping and Ngai, Edith CH},
+  journal={arXiv preprint arXiv:2604.14839},
+  year={2026}
 }
 ```
 
@@ -409,11 +423,12 @@
 ***KDD 2026***
 
 ```bibtex
-@article{xu2025vi,
+@inproceedings{xu2026vi,
   title={VI-MMRec: Similarity-Aware Training Cost-free Virtual User-Item Interactions for Multimodal Recommendation},
   author={Xu, Jinfeng and Chen, Zheyu and Yang, Shuo and Li, Jinze and Wan, Zitong and Wang, Hewei and Liu, Weijie and Li, Yijie and Ngai, Edith CH},
-  journal={arXiv preprint arXiv:2512.08702},
-  year={2025}
+  booktitle={Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining V. 1},
+  pages={1683--1692},
+  year={2026}
 }
 ```
 
@@ -444,6 +459,19 @@
 }
 ```
 
+##### 13. Well Begun is Half Done: Training-Free and Model-Agnostic Semantically Guaranteed User Representation Initialization for Multimodal Recommendation
+
+***SIGIR 2026***
+
+```bibtex
+@article{xu2026well,
+  title={Well Begun is Half Done: Training-Free and Model-Agnostic Semantically Guaranteed User Representation Initialization for Multimodal Recommendation},
+  author={Xu, Jinfeng and Chen, Zheyu and Yang, Shuo and Li, Jinze and Wang, Hewei and Tang, Jianheng and Wang, Wei and Hu, Xiping and Ngai, Edith CH},
+  journal={arXiv preprint arXiv:2604.14839},
+  year={2026}
+}
+```
+
 <div align="center" style="margin: 30px 0;">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
 </div>
@@ -456,11 +484,12 @@
 ***KDD 2026***
 
 ```bibtex
-@article{xu2025learning,
+@inproceedings{xu2026learning,
   title={Learning and Editing Universal Graph Prompt Tuning via Reinforcement Learning},
   author={Xu, Jinfeng and Chen, Zheyu and Yang, Shuo and Li, Jinze and Wang, Hewei and Li, Yijie and Ngai, Edith CH},
-  journal={arXiv preprint arXiv:2512.08763},
-  year={2025}
+  booktitle={Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining V. 1},
+  pages={1673--1682},
+  year={2026}
 }
 ```
 
