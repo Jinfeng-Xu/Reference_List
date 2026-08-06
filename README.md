@@ -56,7 +56,7 @@
 
 ***ICASSP 2025***
 
-```bitex
+```bibtex
 @inproceedings{chen2025don,
   title={Don’t Lose Yourself: Boosting Multimodal Recommendation via Reducing Node-neighbor Discrepancy in Graph Convolutional Network},
   author={Chen, Zheyu and Xu, Jinfeng and Hu, Haibo},
@@ -257,7 +257,7 @@
 ***TORS 2026***
 
 ```bibtex
-@article{xu2026nlgcl+,
+@article{xu2026nlgclp,
   title={NLGCL+: Naturally Existing Neighbour Layers Graph Contrastive Learning with Adaptive Sample Weighting for Multimodal Recommendation},
   author={Xu, Jinfeng and Chen, Zheyu and Yang, Shuo and Li, Jinze and Wang, Hewei and Wang, Wei and Hu, Xiping and Ngai, Edith},
   journal={ACM Transactions on Recommender Systems},
@@ -271,13 +271,30 @@
 ***SIGIR 2026***
 
 ```bibtex
-@article{xu2026well,
+@inproceedings{xu2026well,
   title={Well Begun is Half Done: Training-Free and Model-Agnostic Semantically Guaranteed User Representation Initialization for Multimodal Recommendation},
   author={Xu, Jinfeng and Chen, Zheyu and Yang, Shuo and Li, Jinze and Wang, Hewei and Tang, Jianheng and Wang, Wei and Hu, Xiping and Ngai, Edith CH},
-  journal={arXiv preprint arXiv:2604.14839},
+  booktitle={Proceedings of the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval},
+  pages={2096--2106},
   year={2026}
 }
 ```
+
+
+##### 19. One Graph, Multiple Gains: Single High-Quality Item-Item Graph for Multimodal Recommendation
+
+***ACM MM 2026***
+
+```bibtex
+@article{xu2026one,
+  title={One Graph, Multiple Gains: Single High-Quality Item-Item Graph for Multimodal Recommendation},
+  author={Xu, Jinfeng and Chen, Zheyu and Peng, Ziyue and Yang, Shuo and Li, Jinze and Liu, Zewei and Li, Shujie and Du, Yipeng and Ngai, Edith CH},
+  journal={arXiv preprint arXiv:2607.24607},
+  year={2026}
+}
+```
+
+
 
 <div align="center" style="margin: 30px 0;">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
@@ -306,7 +323,7 @@
 
 ***ICASSP 2025***
 
-```bitex
+```bibtex
 @inproceedings{chen2025don,
   title={Don’t Lose Yourself: Boosting Multimodal Recommendation via Reducing Node-neighbor Discrepancy in Graph Convolutional Network},
   author={Chen, Zheyu and Xu, Jinfeng and Hu, Haibo},
@@ -450,7 +467,7 @@
 ***TORS 2026***
 
 ```bibtex
-@article{xu2026nlgcl+,
+@article{xu2026nlgclp,
   title={NLGCL+: Naturally Existing Neighbour Layers Graph Contrastive Learning with Adaptive Sample Weighting for Multimodal Recommendation},
   author={Xu, Jinfeng and Chen, Zheyu and Yang, Shuo and Li, Jinze and Wang, Hewei and Wang, Wei and Hu, Xiping and Ngai, Edith},
   journal={ACM Transactions on Recommender Systems},
@@ -464,10 +481,24 @@
 ***SIGIR 2026***
 
 ```bibtex
-@article{xu2026well,
+@inproceedings{xu2026well,
   title={Well Begun is Half Done: Training-Free and Model-Agnostic Semantically Guaranteed User Representation Initialization for Multimodal Recommendation},
   author={Xu, Jinfeng and Chen, Zheyu and Yang, Shuo and Li, Jinze and Wang, Hewei and Tang, Jianheng and Wang, Wei and Hu, Xiping and Ngai, Edith CH},
-  journal={arXiv preprint arXiv:2604.14839},
+  booktitle={Proceedings of the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval},
+  pages={2096--2106},
+  year={2026}
+}
+```
+
+##### 14. One Graph, Multiple Gains: Single High-Quality Item-Item Graph for Multimodal Recommendation
+
+***ACM MM 2026***
+
+```bibtex
+@article{xu2026one,
+  title={One Graph, Multiple Gains: Single High-Quality Item-Item Graph for Multimodal Recommendation},
+  author={Xu, Jinfeng and Chen, Zheyu and Peng, Ziyue and Yang, Shuo and Li, Jinze and Liu, Zewei and Li, Shujie and Du, Yipeng and Ngai, Edith CH},
+  journal={arXiv preprint arXiv:2607.24607},
   year={2026}
 }
 ```
