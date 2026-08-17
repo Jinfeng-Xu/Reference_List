@@ -295,6 +295,21 @@
 ```
 
 
+##### 20. Neural Tree Collaborative Filtering: Rethinking Graph Collaborative Filtering as Tree Collaborative Filtering with Curvature-Aware Propagation Depth
+
+***CIKM 2026***
+
+```bibtex
+@article{xu2026neural,
+  title={Neural Tree Collaborative Filtering: Rethinking Graph Collaborative Filtering as Tree Collaborative Filtering with Curvature-Aware Propagation Depth},
+  author={Xu, Jinfeng and Chen, Zheyu and Peng, Ziyue and Yang, Shuo and Li, Jinze and Yuan, Wenhao and Chen, Jian and Ngai, Edith CH},
+  journal={arXiv preprint arXiv:2608.10297},
+  year={2026}
+}
+```
+
+
+
 
 <div align="center" style="margin: 30px 0;">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
