@@ -14,7 +14,7 @@
 ```bibtex
 @inproceedings{xu2024aligngroup,
   title={AlignGroup: Learning and Aligning Group Consensus with Member Preferences for Group Recommendation},
-  author={Xu, Jinfeng and Chen, Zheyu and Li, Jinze and Yang, Shuo and Wang, Hewei and Ngai, Edith CH},
+  author={Xu, Jinfeng and Chen, Zheyu and Li, Jinze and Yang, Shuo and Wang, Hewei and Ngai, Edith C. H.},
   booktitle={Proceedings of the 33rd ACM International Conference on Information and Knowledge Management},
   pages={2682--2691},
   year={2024}
@@ -24,14 +24,17 @@
 
 ##### 2. Improving Consumer Experience With Pre-Purify Temporal-Decay Memory-Based Collaborative Filtering Recommendation for Graduate School Application
 
-***TCE 2024***
+***TCE 2025***
 
 ```bibtex
 @article{xu2024improving,
   title={Improving Consumer Experience With Pre-Purify Temporal-Decay Memory-Based Collaborative Filtering Recommendation for Graduate School Application},
-  author={Xu, Jinfeng and Chen, Zheyu and Ma, Zixiao and Liu, Jiyi and Ngai, Edith CH},
+  author={Xu, Jinfeng and Chen, Zheyu and Ma, Zixiao and Liu, Jiyi and Ngai, Edith C. H.},
   journal={IEEE Transactions on Consumer Electronics},
-  year={2024},
+  volume={71},
+  number={2},
+  pages={5783--5791},
+  year={2025},
   publisher={IEEE}
 }
 ```
@@ -42,8 +45,8 @@
 
 ```bibtex
 @inproceedings{xu2025mentor,
-  title={Mentor: multi-level self-supervised learning for multimodal recommendation},
-  author={Xu, Jinfeng and Chen, Zheyu and Yang, Shuo and Li, Jinze and Wang, Hewei and Ngai, Edith CH},
+  title={MENTOR: Multi-level Self-supervised Learning for Multimodal Recommendation},
+  author={Xu, Jinfeng and Chen, Zheyu and Yang, Shuo and Li, Jinze and Wang, Hewei and Ngai, Edith C. H.},
   booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
   volume={39},
   number={12},
@@ -60,7 +63,7 @@
 @inproceedings{chen2025don,
   title={Don’t Lose Yourself: Boosting Multimodal Recommendation via Reducing Node-neighbor Discrepancy in Graph Convolutional Network},
   author={Chen, Zheyu and Xu, Jinfeng and Hu, Haibo},
-  booktitle={ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  booktitle={ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
   pages={1--5},
   year={2025},
   organization={IEEE}
@@ -74,7 +77,7 @@
 ```bibtex
 @inproceedings{xu2025cohesion,
   title={COHESION: Composite Graph Convolutional Network with Dual-Stage Fusion for Multimodal Recommendation},
-  author={Xu, Jinfeng and Chen, Zheyu and Wang, Wei and Hu, Xiping and Kim, Sang-Wook and Ngai, Edith CH},
+  author={Xu, Jinfeng and Chen, Zheyu and Wang, Wei and Hu, Xiping and Kim, Sang-Wook and Ngai, Edith C. H.},
   booktitle={Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval},
   pages={1830--1839},
   year={2025}
@@ -101,8 +104,8 @@
 
 ```bibtex
 @inproceedings{xu2025mdvt,
-  title={Mdvt: Enhancing multimodal recommendation with model-agnostic multimodal-driven virtual triplets},
-  author={Xu, Jinfeng and Chen, Zheyu and Li, Jinze and Yang, Shuo and Wang, Hewei and Li, Yijie and Li, Mengran and Wu, Puzhen and Ngai, Edith CH},
+  title={MDVT: Enhancing Multimodal Recommendation with Model-Agnostic Multimodal-Driven Virtual Triplets},
+  author={Xu, Jinfeng and Chen, Zheyu and Li, Jinze and Yang, Shuo and Wang, Hewei and Li, Yijie and Li, Mengran and Wu, Puzhen and Ngai, Edith C. H.},
   booktitle={Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining V. 2},
   pages={3378--3389},
   year={2025}
@@ -130,7 +133,7 @@
 ```bibtex
 @inproceedings{xu2025best,
   title={The Best is Yet to Come: Graph Convolution in the Testing Phase for Multimodal Recommendation},
-  author={Xu, Jinfeng and Chen, Zheyu and Yang, Shuo and Li, Jinze and Ngai, Edith CH},
+  author={Xu, Jinfeng and Chen, Zheyu and Yang, Shuo and Li, Jinze and Ngai, Edith C. H.},
   booktitle={Proceedings of the 33rd ACM International Conference on Multimedia},
   pages={6325--6334},
   year={2025}
@@ -144,8 +147,11 @@
 ```bibtex
 @article{xu2025enhancing,
   title={Enhancing Robustness and Generalization Capability for Multimodal Recommender Systems via Sharpness-Aware Minimization},
-  author={Xu, Jinfeng and Chen, Zheyu and Li, Jinze and Yang, Shuo and Wang, Wei and Hu, Xiping and Wong, Raymond Chi-Wing and Ngai, Edith CH},
+  author={Xu, Jinfeng and Chen, Zheyu and Li, Jinze and Yang, Shuo and Wang, Wei and Hu, Xiping and Wong, Raymond Chi-Wing and Ngai, Edith C. H.},
   journal={IEEE Transactions on Knowledge and Data Engineering},
+  volume={37},
+  number={11},
+  pages={6406--6419},
   year={2025},
   publisher={IEEE}
 }
@@ -185,9 +191,11 @@
 
 ```bibtex
 @article{xu2026survey,
-  title={A survey on multimodal recommender systems: Recent advances and future directions},
-  author={Xu, Jinfeng and Chen, Zheyu and Yang, Shuo and Li, Jinze and Wang, Wei and Hu, Xiping and Hoi, Steven and Ngai, Edith},
+  title={A Survey on Multimodal Recommender Systems: Recent Advances and Future Directions},
+  author={Xu, Jinfeng and Chen, Zheyu and Yang, Shuo and Li, Jinze and Wang, Wei and Hu, Xiping and Hoi, Steven and Ngai, Edith C. H.},
   journal={IEEE Transactions on Multimedia},
+  volume={28},
+  pages={7189--7203},
   year={2026},
   publisher={IEEE}
 }
@@ -195,15 +203,16 @@
 
 ##### 14. LOBSTER: Bilateral Global Semantic Enhancement for Multimedia Recommendation
 
-***Information 2026***
+***Information Fusion 2026***
 
 ```bibtex
 @article{xu2025lobster,
-  title={LOBSTER: Bilateral Global Semantic Enhancement for Multimedia Recommendation},
-  author={Xu, Jinfeng and Chen, Zheyu and Wang, Wei and Hu, Xiping and Liu, Jiyi and Ngai, Edith CH},
+  title={LOBSTER: Bilateral global semantic enhancement for multimedia recommendation},
+  author={Xu, Jinfeng and Chen, Zheyu and Wang, Wei and Hu, Xiping and Liu, Jiyi and Ngai, Edith C. H.},
   journal={Information Fusion},
+  volume={127},
   pages={103778},
-  year={2025},
+  year={2026},
   publisher={Elsevier}
 }
 ```
@@ -215,7 +224,7 @@
 ```bibtex
 @inproceedings{xu2026vi,
   title={VI-MMRec: Similarity-Aware Training Cost-free Virtual User-Item Interactions for Multimodal Recommendation},
-  author={Xu, Jinfeng and Chen, Zheyu and Yang, Shuo and Li, Jinze and Wan, Zitong and Wang, Hewei and Liu, Weijie and Li, Yijie and Ngai, Edith CH},
+  author={Xu, Jinfeng and Chen, Zheyu and Yang, Shuo and Li, Jinze and Wan, Zitong and Wang, Hewei and Liu, Weijie and Li, Yijie and Ngai, Edith C. H.},
   booktitle={Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining V. 1},
   pages={1683--1692},
   year={2026}
@@ -244,11 +253,13 @@
 ***ICDE 2026***
 
 ```bibtex
-@article{xu2026cammsr,
+@inproceedings{xu2026cammsr,
   title={CAMMSR: Category-Guided Attentive Mixture of Experts for Multimodal Sequential Recommendation},
-  author={Xu, Jinfeng and Chen, Zheyu and Yang, Shuo and Li, Jinze and Wang, Hewei and Li, Yijie and Tang, Jianheng and Liu, Yunhuai and Ngai, Edith CH},
-  journal={arXiv preprint arXiv:2603.04320},
-  year={2026}
+  author={Xu, Jinfeng and Chen, Zheyu and Yang, Shuo and Li, Jinze and Wang, Hewei and Li, Yijie and Tang, Jianheng and Liu, Yunhuai and Ngai, Edith C. H.},
+  booktitle={2026 IEEE 42nd International Conference on Data Engineering (ICDE)},
+  pages={2206--2219},
+  year={2026},
+  organization={IEEE}
 }
 ```
 
@@ -273,7 +284,7 @@
 ```bibtex
 @inproceedings{xu2026well,
   title={Well Begun is Half Done: Training-Free and Model-Agnostic Semantically Guaranteed User Representation Initialization for Multimodal Recommendation},
-  author={Xu, Jinfeng and Chen, Zheyu and Yang, Shuo and Li, Jinze and Wang, Hewei and Tang, Jianheng and Wang, Wei and Hu, Xiping and Ngai, Edith CH},
+  author={Xu, Jinfeng and Chen, Zheyu and Yang, Shuo and Li, Jinze and Wang, Hewei and Tang, Jianheng and Wang, Wei and Hu, Xiping and Ngai, Edith C. H.},
   booktitle={Proceedings of the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval},
   pages={2096--2106},
   year={2026}
@@ -288,7 +299,7 @@
 ```bibtex
 @article{xu2026one,
   title={One Graph, Multiple Gains: Single High-Quality Item-Item Graph for Multimodal Recommendation},
-  author={Xu, Jinfeng and Chen, Zheyu and Peng, Ziyue and Yang, Shuo and Li, Jinze and Liu, Zewei and Li, Shujie and Du, Yipeng and Ngai, Edith CH},
+  author={Xu, Jinfeng and Chen, Zheyu and Peng, Ziyue and Yang, Shuo and Li, Jinze and Liu, Zewei and Li, Shujie and Du, Yipeng and Ngai, Edith C. H.},
   journal={arXiv preprint arXiv:2607.24607},
   year={2026}
 }
@@ -302,7 +313,7 @@
 ```bibtex
 @article{xu2026neural,
   title={Neural Tree Collaborative Filtering: Rethinking Graph Collaborative Filtering as Tree Collaborative Filtering with Curvature-Aware Propagation Depth},
-  author={Xu, Jinfeng and Chen, Zheyu and Peng, Ziyue and Yang, Shuo and Li, Jinze and Yuan, Wenhao and Chen, Jian and Ngai, Edith CH},
+  author={Xu, Jinfeng and Chen, Zheyu and Peng, Ziyue and Yang, Shuo and Li, Jinze and Yuan, Wenhao and Chen, Jian and Ngai, Edith C. H.},
   journal={arXiv preprint arXiv:2608.10297},
   year={2026}
 }
@@ -324,8 +335,8 @@
 
 ```bibtex
 @inproceedings{xu2025mentor,
-  title={Mentor: multi-level self-supervised learning for multimodal recommendation},
-  author={Xu, Jinfeng and Chen, Zheyu and Yang, Shuo and Li, Jinze and Wang, Hewei and Ngai, Edith CH},
+  title={MENTOR: Multi-level Self-supervised Learning for Multimodal Recommendation},
+  author={Xu, Jinfeng and Chen, Zheyu and Yang, Shuo and Li, Jinze and Wang, Hewei and Ngai, Edith C. H.},
   booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
   volume={39},
   number={12},
@@ -342,7 +353,7 @@
 @inproceedings{chen2025don,
   title={Don’t Lose Yourself: Boosting Multimodal Recommendation via Reducing Node-neighbor Discrepancy in Graph Convolutional Network},
   author={Chen, Zheyu and Xu, Jinfeng and Hu, Haibo},
-  booktitle={ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  booktitle={ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
   pages={1--5},
   year={2025},
   organization={IEEE}
@@ -356,7 +367,7 @@
 ```bibtex
 @inproceedings{xu2025cohesion,
   title={COHESION: Composite Graph Convolutional Network with Dual-Stage Fusion for Multimodal Recommendation},
-  author={Xu, Jinfeng and Chen, Zheyu and Wang, Wei and Hu, Xiping and Kim, Sang-Wook and Ngai, Edith CH},
+  author={Xu, Jinfeng and Chen, Zheyu and Wang, Wei and Hu, Xiping and Kim, Sang-Wook and Ngai, Edith C. H.},
   booktitle={Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval},
   pages={1830--1839},
   year={2025}
@@ -369,8 +380,8 @@
 
 ```bibtex
 @inproceedings{xu2025mdvt,
-  title={Mdvt: Enhancing multimodal recommendation with model-agnostic multimodal-driven virtual triplets},
-  author={Xu, Jinfeng and Chen, Zheyu and Li, Jinze and Yang, Shuo and Wang, Hewei and Li, Yijie and Li, Mengran and Wu, Puzhen and Ngai, Edith CH},
+  title={MDVT: Enhancing Multimodal Recommendation with Model-Agnostic Multimodal-Driven Virtual Triplets},
+  author={Xu, Jinfeng and Chen, Zheyu and Li, Jinze and Yang, Shuo and Wang, Hewei and Li, Yijie and Li, Mengran and Wu, Puzhen and Ngai, Edith C. H.},
   booktitle={Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining V. 2},
   pages={3378--3389},
   year={2025}
@@ -384,7 +395,7 @@
 ```bibtex
 @inproceedings{xu2025best,
   title={The Best is Yet to Come: Graph Convolution in the Testing Phase for Multimodal Recommendation},
-  author={Xu, Jinfeng and Chen, Zheyu and Yang, Shuo and Li, Jinze and Ngai, Edith CH},
+  author={Xu, Jinfeng and Chen, Zheyu and Yang, Shuo and Li, Jinze and Ngai, Edith C. H.},
   booktitle={Proceedings of the 33rd ACM International Conference on Multimedia},
   pages={6325--6334},
   year={2025}
@@ -398,8 +409,11 @@
 ```bibtex
 @article{xu2025enhancing,
   title={Enhancing Robustness and Generalization Capability for Multimodal Recommender Systems via Sharpness-Aware Minimization},
-  author={Xu, Jinfeng and Chen, Zheyu and Li, Jinze and Yang, Shuo and Wang, Wei and Hu, Xiping and Wong, Raymond Chi-Wing and Ngai, Edith CH},
+  author={Xu, Jinfeng and Chen, Zheyu and Li, Jinze and Yang, Shuo and Wang, Wei and Hu, Xiping and Wong, Raymond Chi-Wing and Ngai, Edith C. H.},
   journal={IEEE Transactions on Knowledge and Data Engineering},
+  volume={37},
+  number={11},
+  pages={6406--6419},
   year={2025},
   publisher={IEEE}
 }
@@ -411,9 +425,11 @@
 
 ```bibtex
 @article{xu2026survey,
-  title={A survey on multimodal recommender systems: Recent advances and future directions},
-  author={Xu, Jinfeng and Chen, Zheyu and Yang, Shuo and Li, Jinze and Wang, Wei and Hu, Xiping and Hoi, Steven and Ngai, Edith},
+  title={A Survey on Multimodal Recommender Systems: Recent Advances and Future Directions},
+  author={Xu, Jinfeng and Chen, Zheyu and Yang, Shuo and Li, Jinze and Wang, Wei and Hu, Xiping and Hoi, Steven and Ngai, Edith C. H.},
   journal={IEEE Transactions on Multimedia},
+  volume={28},
+  pages={7189--7203},
   year={2026},
   publisher={IEEE}
 }
@@ -421,15 +437,16 @@
 
 ##### 8. LOBSTER: Bilateral Global Semantic Enhancement for Multimedia Recommendation
 
-***Information 2026***
+***Information Fusion 2026***
 
 ```bibtex
 @article{xu2025lobster,
-  title={LOBSTER: Bilateral Global Semantic Enhancement for Multimedia Recommendation},
-  author={Xu, Jinfeng and Chen, Zheyu and Wang, Wei and Hu, Xiping and Liu, Jiyi and Ngai, Edith CH},
+  title={LOBSTER: Bilateral global semantic enhancement for multimedia recommendation},
+  author={Xu, Jinfeng and Chen, Zheyu and Wang, Wei and Hu, Xiping and Liu, Jiyi and Ngai, Edith C. H.},
   journal={Information Fusion},
+  volume={127},
   pages={103778},
-  year={2025},
+  year={2026},
   publisher={Elsevier}
 }
 ```
@@ -441,7 +458,7 @@
 ```bibtex
 @inproceedings{xu2026multi,
   title={Multi-modal Dynamic Proxy Learning for Personalized Multiple Clustering},
-  author={Xu, Jinfeng and Chen, Zheyu and Yang, Shuo and Li, Jinze and Peng, Ziyue and Liu, Zewei and Wang, Hewei and Zhang, Jiayi and Ngai, Edith CH},
+  author={Xu, Jinfeng and Chen, Zheyu and Yang, Shuo and Li, Jinze and Peng, Ziyue and Liu, Zewei and Wang, Hewei and Zhang, Jiayi and Ngai, Edith C. H.},
   booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
   volume={40},
   number={32},
@@ -457,7 +474,7 @@
 ```bibtex
 @inproceedings{xu2026vi,
   title={VI-MMRec: Similarity-Aware Training Cost-free Virtual User-Item Interactions for Multimodal Recommendation},
-  author={Xu, Jinfeng and Chen, Zheyu and Yang, Shuo and Li, Jinze and Wan, Zitong and Wang, Hewei and Liu, Weijie and Li, Yijie and Ngai, Edith CH},
+  author={Xu, Jinfeng and Chen, Zheyu and Yang, Shuo and Li, Jinze and Wan, Zitong and Wang, Hewei and Liu, Weijie and Li, Yijie and Ngai, Edith C. H.},
   booktitle={Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining V. 1},
   pages={1683--1692},
   year={2026}
@@ -469,11 +486,13 @@
 ***ICDE 2026***
 
 ```bibtex
-@article{xu2026cammsr,
+@inproceedings{xu2026cammsr,
   title={CAMMSR: Category-Guided Attentive Mixture of Experts for Multimodal Sequential Recommendation},
-  author={Xu, Jinfeng and Chen, Zheyu and Yang, Shuo and Li, Jinze and Wang, Hewei and Li, Yijie and Tang, Jianheng and Liu, Yunhuai and Ngai, Edith CH},
-  journal={arXiv preprint arXiv:2603.04320},
-  year={2026}
+  author={Xu, Jinfeng and Chen, Zheyu and Yang, Shuo and Li, Jinze and Wang, Hewei and Li, Yijie and Tang, Jianheng and Liu, Yunhuai and Ngai, Edith C. H.},
+  booktitle={2026 IEEE 42nd International Conference on Data Engineering (ICDE)},
+  pages={2206--2219},
+  year={2026},
+  organization={IEEE}
 }
 ```
 
@@ -498,7 +517,7 @@
 ```bibtex
 @inproceedings{xu2026well,
   title={Well Begun is Half Done: Training-Free and Model-Agnostic Semantically Guaranteed User Representation Initialization for Multimodal Recommendation},
-  author={Xu, Jinfeng and Chen, Zheyu and Yang, Shuo and Li, Jinze and Wang, Hewei and Tang, Jianheng and Wang, Wei and Hu, Xiping and Ngai, Edith CH},
+  author={Xu, Jinfeng and Chen, Zheyu and Yang, Shuo and Li, Jinze and Wang, Hewei and Tang, Jianheng and Wang, Wei and Hu, Xiping and Ngai, Edith C. H.},
   booktitle={Proceedings of the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval},
   pages={2096--2106},
   year={2026}
@@ -512,7 +531,7 @@
 ```bibtex
 @article{xu2026one,
   title={One Graph, Multiple Gains: Single High-Quality Item-Item Graph for Multimodal Recommendation},
-  author={Xu, Jinfeng and Chen, Zheyu and Peng, Ziyue and Yang, Shuo and Li, Jinze and Liu, Zewei and Li, Shujie and Du, Yipeng and Ngai, Edith CH},
+  author={Xu, Jinfeng and Chen, Zheyu and Peng, Ziyue and Yang, Shuo and Li, Jinze and Liu, Zewei and Li, Shujie and Du, Yipeng and Ngai, Edith C. H.},
   journal={arXiv preprint arXiv:2607.24607},
   year={2026}
 }
@@ -532,7 +551,7 @@
 ```bibtex
 @inproceedings{xu2026learning,
   title={Learning and Editing Universal Graph Prompt Tuning via Reinforcement Learning},
-  author={Xu, Jinfeng and Chen, Zheyu and Yang, Shuo and Li, Jinze and Wang, Hewei and Li, Yijie and Ngai, Edith CH},
+  author={Xu, Jinfeng and Chen, Zheyu and Yang, Shuo and Li, Jinze and Wang, Hewei and Li, Yijie and Ngai, Edith C. H.},
   booktitle={Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining V. 1},
   pages={1673--1682},
   year={2026}
