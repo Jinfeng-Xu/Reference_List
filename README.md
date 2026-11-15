@@ -297,10 +297,11 @@
 ***ACM MM 2026***
 
 ```bibtex
-@article{xu2026one,
+@inproceedings{xu2026iimrec,
   title={One Graph, Multiple Gains: Single High-Quality Item-Item Graph for Multimodal Recommendation},
   author={Xu, Jinfeng and Chen, Zheyu and Peng, Ziyue and Yang, Shuo and Li, Jinze and Liu, Zewei and Li, Shujie and Du, Yipeng and Ngai, Edith C. H.},
-  journal={arXiv preprint arXiv:2607.24607},
+  booktitle={Proceedings of the 34th ACM International Conference on Multimedia},
+  pages={12508--12516},
   year={2026}
 }
 ```
@@ -311,10 +312,11 @@
 ***CIKM 2026***
 
 ```bibtex
-@article{xu2026neural,
+@inproceedings{xu2026ntcf,
   title={Neural Tree Collaborative Filtering: Rethinking Graph Collaborative Filtering as Tree Collaborative Filtering with Curvature-Aware Propagation Depth},
-  author={Xu, Jinfeng and Chen, Zheyu and Peng, Ziyue and Yang, Shuo and Li, Jinze and Yuan, Wenhao and Chen, Jian and Ngai, Edith C. H.},
-  journal={arXiv preprint arXiv:2608.10297},
+  author={Xu, Jinfeng and Chen, Zheyu and Peng, Ziyue and Yang, Shuo and Li, Jinze and Yuan, Wenhao and Chen, Jian and Li, Shujie and Ngai, Edith C. H.},
+  booktitle={Proceedings of the 35th ACM International Conference on Information and Knowledge Management},
+  pages={7991--7996},
   year={2026}
 }
 ```
@@ -529,10 +531,11 @@
 ***ACM MM 2026***
 
 ```bibtex
-@article{xu2026one,
+@inproceedings{xu2026iimrec,
   title={One Graph, Multiple Gains: Single High-Quality Item-Item Graph for Multimodal Recommendation},
   author={Xu, Jinfeng and Chen, Zheyu and Peng, Ziyue and Yang, Shuo and Li, Jinze and Liu, Zewei and Li, Shujie and Du, Yipeng and Ngai, Edith C. H.},
-  journal={arXiv preprint arXiv:2607.24607},
+  booktitle={Proceedings of the 34th ACM International Conference on Multimedia},
+  pages={12508--12516},
   year={2026}
 }
 ```
