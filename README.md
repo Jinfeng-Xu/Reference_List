@@ -321,8 +321,45 @@
 }
 ```
 
+##### 21. SIHG-Rec: Unleashing the Power of Semantic and Interactive Homogeneous Graphs via Dual-Stage Fusion for Multimodal Recommendation
 
+***TORS 2026***
 
+```bibtex
+@article{xu2026sihg,
+  title={SIHG-Rec: Unleashing the Power of Semantic and Interactive Homogeneous Graphs via Dual-Stage Fusion for Multimodal Recommendation},
+  author={Xu, Jinfeng and Chen, Zheyu and Wang, Wei and Hu, Xiping and Kim, Sang-Wook and Ngai, Edith},
+  journal={ACM Transactions on Recommender Systems},
+  year={2026},
+  publisher={ACM, New York, NY}
+}
+```
+
+##### 22. Take a Step Back: A Dual-Granularity Raw Feature Empowered Intermediate Fusion Graph Convolutional Network for Multimodal Recommendation
+
+***WSDM 2027***
+
+```bibtex
+@article{xu2026take,
+  title={Take a Step Back: A Dual-Granularity Raw Feature Empowered Intermediate Fusion Graph Convolutional Network for Multimodal Recommendation},
+  author={Xu, Jinfeng and Chen, Zheyu and Yang, Shuo and Li, Jinze and Yuan, Wenhao and Peng, Ziyue and Wu, Puzhen and Li, Shujie and Chen, Jian and Lin, Zheng and others},
+  journal={arXiv preprint arXiv:2611.19974},
+  year={2026}
+}
+```
+
+##### 23. Reflection Is Not Always Worth It: Budgeted Reflection Allocation for Recommendation Agents
+
+***WSDM 2027***
+
+```bibtex
+@article{xu2026reflection,
+  title={Reflection Is Not Always Worth It: Budgeted Reflection Allocation for Recommendation Agents},
+  author={Xu, Jinfeng and Chen, Zheyu and Peng, Ziyue and Tang, Jianheng and Lin, Zheng and Yuan, Wenhao and Chen, Jian and Li, Shujie and Leung, Victor},
+  journal={arXiv preprint arXiv:2611.19847},
+  year={2026}
+}
+```
 
 <div align="center" style="margin: 30px 0;">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
@@ -536,6 +573,33 @@
   author={Xu, Jinfeng and Chen, Zheyu and Peng, Ziyue and Yang, Shuo and Li, Jinze and Liu, Zewei and Li, Shujie and Du, Yipeng and Ngai, Edith C. H.},
   booktitle={Proceedings of the 34th ACM International Conference on Multimedia},
   pages={12508--12516},
+  year={2026}
+}
+```
+
+##### 15. SIHG-Rec: Unleashing the Power of Semantic and Interactive Homogeneous Graphs via Dual-Stage Fusion for Multimodal Recommendation
+
+***TORS 2026***
+
+```bibtex
+@article{xu2026sihg,
+  title={SIHG-Rec: Unleashing the Power of Semantic and Interactive Homogeneous Graphs via Dual-Stage Fusion for Multimodal Recommendation},
+  author={Xu, Jinfeng and Chen, Zheyu and Wang, Wei and Hu, Xiping and Kim, Sang-Wook and Ngai, Edith},
+  journal={ACM Transactions on Recommender Systems},
+  year={2026},
+  publisher={ACM, New York, NY}
+}
+```
+
+##### 16. Take a Step Back: A Dual-Granularity Raw Feature Empowered Intermediate Fusion Graph Convolutional Network for Multimodal Recommendation
+
+***WSDM 2027***
+
+```bibtex
+@article{xu2026take,
+  title={Take a Step Back: A Dual-Granularity Raw Feature Empowered Intermediate Fusion Graph Convolutional Network for Multimodal Recommendation},
+  author={Xu, Jinfeng and Chen, Zheyu and Yang, Shuo and Li, Jinze and Yuan, Wenhao and Peng, Ziyue and Wu, Puzhen and Li, Shujie and Chen, Jian and Lin, Zheng and others},
+  journal={arXiv preprint arXiv:2611.19974},
   year={2026}
 }
 ```
